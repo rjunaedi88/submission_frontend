@@ -1,0 +1,3 @@
+- Aplikasi Berhasil dijalankan dev menggunakan google chrome
+- Button get menu link menuju pencarian menu restoran
+- untuk contoh dapat menggunakan keyword apple pada kolom search pada tampilan aplikasi
